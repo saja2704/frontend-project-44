@@ -13,6 +13,7 @@
   "author": "Nikita Voronkov",
   "license": "ISC",
   "dependencies": {
+    "@stylistic/eslint-plugin-js": "^1.7.2",
     "readline-sync": "^1.4.10"
   },
   "devDependencies": {
