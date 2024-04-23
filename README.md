@@ -13,3 +13,7 @@
 # asciinema(brain-calc)
 
 (https://asciinema.org/a/oMQKcnrfmY2bSJGVjEtuSTq2b)
+
+# asciinema(brain-gcd)
+
+https://asciinema.org/a/7Qdnn5AqXQd7h0ZNHEXhjXMJd
