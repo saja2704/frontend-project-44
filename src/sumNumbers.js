@@ -2,6 +2,7 @@ import readlineSync from 'readline-sync';
 
 export default function sumNumbers(name) {
 	let correctAnswersCount = 0;
+	console.log('What is the result of the expression?');
 
 	while (correctAnswersCount < 3) {
 		const randomNumber1 = Math.floor(Math.random() * 25) + 1;
