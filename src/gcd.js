@@ -33,4 +33,5 @@ export default function theLargestCommonDivisor(name) {
 			return;
 		}
 	}
+	console.log(`Congratulations, ${name}!`);
 }
