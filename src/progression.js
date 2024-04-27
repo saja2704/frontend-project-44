@@ -47,5 +47,5 @@ export default function arithmeticProgression(name) {
 			return;
 		}
 	}
-	console.log(console.log(`Congratulations, ${name}!`);)
+	console.log(console.log(`Congratulations, ${name}!`));
 }
