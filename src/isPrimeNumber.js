@@ -29,6 +29,7 @@ export default function isPrimeNumber(name) {
 			return;
 		}
 	}
+	console.log(`Congratulations, ${name}!`);
 }
 
 function isPrimeCheck(number) {
